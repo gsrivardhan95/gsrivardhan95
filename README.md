@@ -7,6 +7,5 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on SQL, Phython..
 - 🌱 I’m currently learning Power BI..
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: https://www.linkedin.com/in/gsrivardhan-reddy/
